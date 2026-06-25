@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# macOS
+.DS_Store
+
+# Временные файлы редакторов
+*.swp
+*~
